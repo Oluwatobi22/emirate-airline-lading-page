@@ -1,0 +1,376 @@
+body{
+    font-family: HelveticaNeue-Light,Helvetica,Arial,sans-serif;
+}
+.move {
+    margin-left: 13px;
+}
+.nav-link {
+    color: white !important;
+    font-weight: 700;
+}
+.navbar-brand {
+    padding-left: 94px;
+}
+.hub {
+    border: 1px solid #406dc0;
+    background: #f0f4ff;
+    box-shadow: 0 2px 4px 2px rgb(0 0 0 / 10%);
+}
+.boxes{
+padding: 25px 27px;
+outline:  2px solid black !important;
+display: inline-block;
+
+}
+.Hotels span:hover {
+    border-bottom: 2px solid red;
+}
+.find {
+    font-family: HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #666;
+}
+.okay h2 {
+    font-family: Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 3rem;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    color: #333;
+    font-size: 40px;
+}
+.btn-white {
+    background-color: white;
+    /* padding: 12px 14px !important; */
+    color: #333;
+}
+.social-media .fa-brands  {
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 5px 9px;
+    border-radius: 8px;
+}
+
+.footer h3 {
+    color: white;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.footer a {
+    color:#a9a9a9;
+    font-family:  'Lucida Grande', 'Times New Roman', Times, serif, 'Lucida Sans Unicode',Verdana, sans-serif;
+    text-align: justify !important;
+    
+}
+.footer a:hover {
+    color:#a9a9a9;
+    font-family:  'Lucida Grande', 'Times New Roman', Times, serif, 'Lucida Sans Unicode',Verdana, sans-serif;
+    text-align: justify !important;
+    
+}
+.footer22 h3 {
+    color: white;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sub h3 {
+    font-size: 21px;
+    font-family: Emirates-Bold;
+    color: #fff;
+    font-weight: 500;
+
+}
+.sub h3 {
+    font-size: 21px;
+    font-family: Emirates-Bold;
+    color: #fff;
+    font-weight: 500;
+
+}
+.app h3 {
+color:gainsboro;
+font-size: 17px;
+
+}
+.btn-outline-light {
+    padding: 6px 19px !important;
+}
+
+.detail {
+    color: #a9a9a9;
+    font-size: 14px;  
+}
+.detail a{
+    color: #a9a9a9;
+    font-size: 14px; 
+}
+.new  {
+    border: 2px solid white;
+}
+.detail a:hover {
+    color: #a9a9a9;
+    font-size: 14px;
+    
+}
+.detail:hover {
+    color: #495057;
+    text-decoration: none;
+}
+.access a:hover {
+    color: #a9a9a9;
+    text-decoration: none;
+    background-color: transparent;
+}
+.access li {
+    display: inline-block;
+    padding: 0px 7px;
+}
+.access a{
+    color: #a9a9a9;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 11px;
+
+}
+.app p {
+    color:#a9a9a9;
+    font-size: 13px;
+}
+.sub p {
+    font-size: 13px;
+    color:#a9a9a9;
+}
+.exp h3 {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+}
+.exp p {
+    color: #a9a9a9;
+  font-size: 13px;
+
+}
+.footer22 a {
+    color:#a9a9a9;
+    font-family:  'Lucida Grande', 'Times New Roman', Times, serif, 'Lucida Sans Unicode',Verdana, sans-serif;
+    text-align: justify !important;
+    
+}
+.footer22 a:hover {
+    color:#a9a9a9;
+    font-family:  'Lucida Grande', 'Times New Roman', Times, serif, 'Lucida Sans Unicode',Verdana, sans-serif;
+    text-align: justify !important;
+    
+}
+.mm {
+    border-right: 3px solid black;
+}
+.circle img {
+    font-size: 13px;
+}
+.underline {
+    border-bottom: 2px solid red;
+    width: 23px;
+}
+.okay small {
+    font-family: HelveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: .4rem;
+    text-transform: uppercase;
+    line-height: 1.5rem;
+    color: #666;
+}
+.Hotels span a {
+ color: #a9a9a9;
+ text-decoration: none;
+}
+.Hotels a:hover {
+    color: black;
+    text-decoration: none;
+}
+.wrapper{
+    display: inline-block;
+}
+.hub a {
+    position: relative;
+    left: 34px;
+}
+.all  {
+    font-family: Emirates-Bold,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 2rem;
+    line-height: 3.45rem;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    line-height: normal;
+    transform: rotate(0deg) scale(1) skew(-13deg) translate(0);
+    color: #fff;
+    text-shadow: 0.1rem 0.1rem 0.5rem rgb(0 0 0 / 30%);
+    margin: 0;
+    letter-spacing: .2rem;
+    margin-top: 130px;
+
+}
+.login li {
+    display: inline-block;
+    position: relative;
+    left: 84px;
+}
+.pre {
+    font-weight: 600;
+    font-size: 55px;
+    color: white;
+     font-family: "Arial Narrow,HelveticaNeue,Helvetica";
+}
+.btn-danger{
+    background-color:#d71921 !important;
+    color: white;    
+}
+.visit {
+    float: left;
+}
+.aa {
+  display: inline-block;
+   background-color: white;
+   padding: 19px 50px;
+   background-attachment: fixed;
+   border: .1rem solid #d8d8d8;
+   
+}
+.left {
+    display: inline-block;
+}
+.btn-danger {
+    padding: 12px 34px !important;
+}
+.covid {
+    border: .1rem solid #333;
+    width: 83px;
+}
+.aa:hover {
+    color: black;
+    font-weight: 500;
+}
+.surround {
+    border: 2px solid blue;
+}
+.form-control22{
+    display: block;
+    width: 100%;
+    padding:1.105rem 0.75rem !important;
+    font-size: 1rem;
+    line-height: 0.2;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid black !important;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;  
+    margin-top: 13px;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    padding:1.105rem 0.75rem !important;
+    font-size: 1rem;
+    line-height: 0.2;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid black !important;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.section4 {
+    padding: 106px 0px;
+}
+.dest p {
+    color:blue;
+    font-size: 23px;
+}
+.day li {
+    display: inline-block;
+    padding: 5px 19px;
+    border: 2px solid black;
+    border-radius: 23px;  
+}
+
+.ss:active {
+    border: #d71921 !important;
+}
+.day li:hover {
+    box-shadow:  1px 1px 7px 1px black ;
+}
+.radio {
+    width: 20px;
+}
+.go:hover {
+box-shadow:1px 1px 7px 1px black;
+}
+.widget {
+    background-color: #fff;
+    /* padding: 67px 23px; */
+}
+.widget li:hover{
+    box-shadow: 0 0 9px 2px rgb(100, 100, 100, 0.40);
+}
+.flyimage{
+    position: absolute;
+    right: 50px;
+    top: 73px;
+}
+.-shadow:hover{
+    box-shadow: 1px 1px 7px 1px black ;
+}
+.more:hover {
+    box-shadow: 1px 1px 7px 1px black ;
+}
+
+.circle:hover {
+    transform: scale(1.2);
+}
+.circle:hover{
+    transition: all 2s;
+}
+
+.form-control {
+    margin: 12px 0px;
+}
+.card-body {
+    height: 200px;
+}
+.card:hover {
+    box-shadow: 0 0 9px 2px rgb(100, 100, 100, 0.40);;
+}
+.card-body p {
+    font-size: 13px;
+}
+.card-body h4 {
+    font-size: 17px;
+}
+.group small {
+    color: #fff;
+    opacity: .69;
+    text-shadow: 0.1rem 0.1rem 0 rgb(0 0 0 / 50%);
+    margin-bottom: 12px;
+    font-size: 19px;
+}
+.group h3 {
+    color:  #fff;
+    font-family: Emirates-Bold,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-size: 39px;
+    font-weight: 600;
+}
+.underline2 {
+    border-bottom: 2px solid red;
+    width: 43px;
+}
+.group p {
+    color: white;
+}
